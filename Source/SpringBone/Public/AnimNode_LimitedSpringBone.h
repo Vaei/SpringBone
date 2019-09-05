@@ -40,6 +40,9 @@ struct SPRINGBONE_API FAnimNode_LimitedSpringBone : public FAnimNode_SpringBone
 
 public:
 	UPROPERTY(EditAnywhere, Category = Spring)
+	bool bSimulateInComponentSpace;
+
+	UPROPERTY(EditAnywhere, Category = Spring)
 	FAnimLimits LimitMinTranslation;
 
 	UPROPERTY(EditAnywhere, Category = Spring)

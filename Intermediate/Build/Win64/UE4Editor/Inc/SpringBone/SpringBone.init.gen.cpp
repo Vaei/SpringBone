@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeSpringBone_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x144EEA8D,
+				0x9C25A396,
 				0x7EA3A86C,
 				METADATA_PARAMS(nullptr, 0)
 			};

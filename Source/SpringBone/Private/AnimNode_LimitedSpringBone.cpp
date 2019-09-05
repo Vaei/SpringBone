@@ -33,7 +33,7 @@ void FAnimNode_LimitedSpringBone::EvaluateSkeletalControl_AnyThread(FComponentSp
 
 	const FCompactPoseBoneIndex SpringBoneIndex = SpringBone.GetCompactPoseIndex(BoneContainer);
 	const FTransform& SpaceBase = Output.Pose.GetComponentSpaceTransform(SpringBoneIndex);
-	FTransform BoneTransformInWorldSpace = SpaceBase * Output.AnimInstanceProxy->GetComponentTransform();
+	FTransform BoneTransformInWorldSpace = (bSimulateInComponentSpace) ? SpaceBase : SpaceBase * Output.AnimInstanceProxy->GetComponentTransform();
 
 	FVector const TargetPos = BoneTransformInWorldSpace.GetLocation();
 
@@ -128,7 +128,16 @@ void FAnimNode_LimitedSpringBone::EvaluateSkeletalControl_AnyThread(FComponentSp
 	}
 	// Now convert back into component space and output - rotation is unchanged.
 	FTransform OutBoneTM = SpaceBase;
-	OutBoneTM.SetLocation(LocalBoneTransform);
+	if (bSimulateInComponentSpace)
+	{
+		OutBoneTM.SetLocation(LocalBoneTransform);
+		OutBoneTM *= Output.AnimInstanceProxy->GetComponentTransform();
+		OutBoneTM.SetRotation(SpaceBase.GetRotation());
+	}
+	else
+	{
+		OutBoneTM.SetLocation(LocalBoneTransform);
+	}
 
 	const bool bUseRotation = bRotateX || bRotateY || bRotateZ;
 	if (bUseRotation)

@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Source\SpringBoneEditor\Private
+/I D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Source\SpringBoneEditor\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph
 /I Editor
 /I Editor\AnimGraph\Classes
@@ -510,13 +510,13 @@
 /I Runtime\AnimGraphRuntime\Public\AnimNotifies
 /I Runtime\AnimGraphRuntime\Public\BoneControllers
 /I Runtime\AnimGraphRuntime\Public\RBF
-/I D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Inc\SpringBoneEditor
-/I D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Source
-/I D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Source\SpringBoneEditor\Public
-/I D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Source\SpringBoneEditor
-/I D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Inc\SpringBone
-/I D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Source\SpringBone\Public
-/I D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Source\SpringBone
+/I D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Inc\SpringBoneEditor
+/I D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Source
+/I D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Source\SpringBoneEditor\Public
+/I D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Source\SpringBoneEditor
+/I D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Inc\SpringBone
+/I D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Source\SpringBone\Public
+/I D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Source\SpringBone
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -540,18 +540,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.22.27812\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Yu"D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
-/Fp"D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
-"D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Module.SpringBoneEditor.gen.cpp"
-/FI"D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Definitions.SpringBoneEditor.h"
-/Fo"D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Module.SpringBoneEditor.gen.cpp.obj"
+/FI"D:\ProjectsPersonal\TESTSPRINGBONE\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Yu"D:\ProjectsPersonal\TESTSPRINGBONE\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Fp"D:\ProjectsPersonal\TESTSPRINGBONE\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
+"D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Module.SpringBoneEditor.gen.cpp"
+/FI"D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Definitions.SpringBoneEditor.h"
+/Fo"D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Module.SpringBoneEditor.gen.cpp.obj"
 /TP
 /GR-
 /W4

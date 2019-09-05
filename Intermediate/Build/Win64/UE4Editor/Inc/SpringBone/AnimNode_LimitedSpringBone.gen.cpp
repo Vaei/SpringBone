@@ -63,6 +63,11 @@ static struct FScriptStruct_SpringBone_StaticRegisterNativesFAnimNode_LimitedSpr
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_LimitMinTranslation_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FStructPropertyParams NewProp_LimitMinTranslation;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bSimulateInComponentSpace_MetaData[];
+#endif
+		static void NewProp_bSimulateInComponentSpace_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bSimulateInComponentSpace;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const UE4CodeGen_Private::FStructParams ReturnStructParams;
 	};
@@ -107,11 +112,23 @@ static struct FScriptStruct_SpringBone_StaticRegisterNativesFAnimNode_LimitedSpr
 	};
 #endif
 	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_LimitMinTranslation = { "LimitMinTranslation", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FAnimNode_LimitedSpringBone, LimitMinTranslation), Z_Construct_UScriptStruct_FAnimLimits, METADATA_PARAMS(Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_LimitMinTranslation_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_LimitMinTranslation_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_bSimulateInComponentSpace_MetaData[] = {
+		{ "Category", "Spring" },
+		{ "ModuleRelativePath", "Public/AnimNode_LimitedSpringBone.h" },
+	};
+#endif
+	void Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_bSimulateInComponentSpace_SetBit(void* Obj)
+	{
+		((FAnimNode_LimitedSpringBone*)Obj)->bSimulateInComponentSpace = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_bSimulateInComponentSpace = { "bSimulateInComponentSpace", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(FAnimNode_LimitedSpringBone), &Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_bSimulateInComponentSpace_SetBit, METADATA_PARAMS(Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_bSimulateInComponentSpace_MetaData, ARRAY_COUNT(Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_bSimulateInComponentSpace_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_MaxTranslationLimits,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_MinTranslationLimits,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_LimitMaxTranslation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_LimitMinTranslation,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::NewProp_bSimulateInComponentSpace,
 	};
 	const UE4CodeGen_Private::FStructParams Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Statics::ReturnStructParams = {
 		(UObject* (*)())Z_Construct_UPackage__Script_SpringBone,
@@ -141,7 +158,7 @@ static struct FScriptStruct_SpringBone_StaticRegisterNativesFAnimNode_LimitedSpr
 		}
 		return ReturnStruct;
 	}
-	uint32 Get_Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Hash() { return 57788819U; }
+	uint32 Get_Z_Construct_UScriptStruct_FAnimNode_LimitedSpringBone_Hash() { return 534201159U; }
 class UScriptStruct* FAnimLimits::StaticStruct()
 {
 	static class UScriptStruct* Singleton = NULL;
