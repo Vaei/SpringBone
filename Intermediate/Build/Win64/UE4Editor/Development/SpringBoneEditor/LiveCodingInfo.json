@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SpringBoneEditor.cpp.obj": [
+			"AnimGraphNode_LimitedSpringBone.cpp.obj",
+			"SpringBoneEditor.cpp.obj"
+		],
+		"Module.SpringBoneEditor.gen.cpp.obj": [
+			"AnimGraphNode_LimitedSpringBone.gen.cpp.obj",
+			"SpringBoneEditor.init.gen.cpp.obj"
+		]
+	}
+}

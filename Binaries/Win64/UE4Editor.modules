@@ -1,0 +1,8 @@
+{
+	"BuildId": "b511ecb4-1400-4156-b9c9-13ac84be9563",
+	"Modules": 
+	{
+		"SpringBone": "UE4Editor-SpringBone.dll",
+		"SpringBoneEditor": "UE4Editor-SpringBoneEditor.dll"
+	}
+}
