@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-SpringBoneEditor.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
-"D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Module.SpringBoneEditor.cpp.obj"
-"D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Module.SpringBoneEditor.gen.cpp.obj"
-"D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-/OUT:"D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\UE4Editor-SpringBoneEditor.lib"
+"D:\ProjectsPersonal\TESTSPRINGBONE\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Module.SpringBoneEditor.cpp.obj"
+"D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Module.SpringBoneEditor.gen.cpp.obj"
+"D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\Default.rc2.res"
+/OUT:"D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBoneEditor\UE4Editor-SpringBoneEditor.lib"
 /INCLUDE:IMPLEMENT_MODULE_SpringBoneEditor

@@ -1,39 +1,39 @@
-D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBone\Definitions.SpringBone.h
-D:/ProjectsPersonal/HilbertsHappenings/Plugins/SpringBone/Source/SpringBone/Private/AnimNode_LimitedSpringBone.cpp
-D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Source\SpringBone\Public\AnimNode_LimitedSpringBone.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers\AnimNode_SpringBone.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers/AnimNode_SkeletalControlBase.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimNodeBase.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNodeBase.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Public\AlphaBlend.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AlphaBlend.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputScaleBias.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SpringBone.generated.h
-D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Inc\SpringBone\AnimNode_LimitedSpringBone.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Public\Animation\AnimInstanceProxy.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprint.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprint.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompositeBase.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimCompositeBase.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimeStretchCurve.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimMontage.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNotify.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Engine/PoseWatch.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PoseWatch.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimClassInterface.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimStateMachineTypes.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimStateMachineTypes.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimClassInterface.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprintGeneratedClass.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprintGeneratedClass.generated.h
-D:\Development\UE4.23\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstanceProxy.generated.h
-D:/ProjectsPersonal/HilbertsHappenings/Plugins/SpringBone/Source/SpringBone/Private/SpringBone.cpp
-D:\ProjectsPersonal\HilbertsHappenings\Plugins\SpringBone\Source\SpringBone\Public\SpringBone.h
+D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Development\SpringBone\Definitions.SpringBone.h
+D:/ProjectsPersonal/TESTSPRINGBONE/Plugins/SpringBone/Source/SpringBone/Private/AnimNode_LimitedSpringBone.cpp
+D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Source\SpringBone\Public\AnimNode_LimitedSpringBone.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers\AnimNode_SpringBone.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers/AnimNode_SkeletalControlBase.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimNodeBase.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNodeBase.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/InputScaleBias.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\AlphaBlend.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AlphaBlend.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InputScaleBias.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SkeletalControlBase.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime\AnimNode_SpringBone.generated.h
+D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Intermediate\Build\Win64\UE4Editor\Inc\SpringBone\AnimNode_LimitedSpringBone.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\Animation\AnimInstanceProxy.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprint.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprint.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimInstance.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimMontage.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimCompositeBase.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimCompositeBase.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/TimeStretchCurve.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TimeStretchCurve.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimMontage.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimNotifies/AnimNotify.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimNotify.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstance.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/PoseWatch.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PoseWatch.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimClassInterface.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimStateMachineTypes.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimStateMachineTypes.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimClassInterface.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprintGeneratedClass.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimBlueprintGeneratedClass.generated.h
+D:\Applications\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AnimInstanceProxy.generated.h
+D:/ProjectsPersonal/TESTSPRINGBONE/Plugins/SpringBone/Source/SpringBone/Private/SpringBone.cpp
+D:\ProjectsPersonal\TESTSPRINGBONE\Plugins\SpringBone\Source\SpringBone\Public\SpringBone.h
