@@ -5,6 +5,9 @@ The node is named "Limited Spring Controller".
 
 I originally made this because I wanted to use a spring controller for my character's helmet but didn't want it to be able to clip through his head.
 
+## Spring Controller (left) vs. Limited Spring Controller (right)
+[![Demo CountPages alpha](https://github.com/Vaei/SpringBone/blob/master/Preview.gif)](https://github.com/Vaei/SpringBone/blob/master/Preview.gif)
+
 ## Installation
 If you're on 4.22 and don't want to compile, grab the 4.22 branch.
 
