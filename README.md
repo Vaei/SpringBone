@@ -8,8 +8,8 @@ I originally made this because I wanted to use a spring controller for my charac
 To see the difference you can look at the community tools thread here: https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1660934-spring-controller-with-limited-axis-useful-for-helmets-that-want-a-spring-controller
 
 ## Installation
-If you're on 4.22 and don't want to compile, grab the 4.22 branch.
-
 Clone/download to your project's Plugins directory (you may need to create this, it goes alongside content folder).
+
+Compile your project (to compile the plugin).
 
 Open your project. If you have mismatched engine version it will build. Enable it in the Plugins window in UE4. That's it, now it should be available as a node in the animation graph "Limited Spring Controller"
