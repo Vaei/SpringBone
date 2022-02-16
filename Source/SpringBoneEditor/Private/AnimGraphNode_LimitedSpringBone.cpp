@@ -1,11 +1,8 @@
-// // Copyright (c) 2019 Drowning Dragons Limited. All Rights Reserved.
-
+// Copyright (c) 2019-2022 Drowning Dragons Limited. All Rights Reserved.
 
 #include "AnimGraphNode_LimitedSpringBone.h"
 
-
 #define LOCTEXT_NAMESPACE "A3Nodes"
-
 
 void UAnimGraphNode_LimitedSpringBone::PostLoad()
 {

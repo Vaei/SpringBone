@@ -1,8 +1,6 @@
-// Copyright (c) 2019 Drowning Dragons Limited. All Rights Reserved.
+// Copyright (c) 2019-2022 Drowning Dragons Limited. All Rights Reserved.
 
 #include "SpringBoneEditor.h"
-#include "SpringBone.h"
-#include "PropertyEditorModule.h"
 
 DEFINE_LOG_CATEGORY(LogSpringBoneEditor);
 

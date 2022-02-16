@@ -1,5 +1,8 @@
+// Copyright (c) 2019-2022 Drowning Dragons Limited. All Rights Reserved.
+
 #include "AnimNode_LimitedSpringBone.h"
-#include "AnimInstanceProxy.h"
+
+#include "Animation/AnimInstanceProxy.h"
 
 
 FORCEINLINE void CopyToVectorByFlags(FVector& DestVec, const FVector& SrcVec, bool bX, bool bY, bool bZ)

@@ -1,8 +1,9 @@
+// Copyright (c) 2019-2022 Drowning Dragons Limited. All Rights Reserved.
+
 #pragma once
 
-#include "BoneContainer.h"
 #include "BonePose.h"
-#include "AnimNode_SpringBone.h"
+#include "BoneControllers/AnimNode_SpringBone.h"
 #include "AnimNode_LimitedSpringBone.generated.h"
 
 class UAnimInstance;
@@ -58,7 +59,7 @@ public:
 	virtual void EvaluateSkeletalControl_AnyThread(FComponentSpacePoseContext& Output, TArray<FBoneTransform>& OutBoneTransforms) override;
 
 protected:
-	inline static void LimitBoneTranslation(float& BoneLocation, const float TargetPos, const bool bLimitMinTranslation, const bool bLimitMaxTranslation, const float MinTranslationLimit, const float MaxTranslationLimit)
+	static void LimitBoneTranslation(float& BoneLocation, const float TargetPos, const bool bLimitMinTranslation, const bool bLimitMaxTranslation, const float MinTranslationLimit, const float MaxTranslationLimit)
 	{
 		if (bLimitMaxTranslation || bLimitMinTranslation)
 		{

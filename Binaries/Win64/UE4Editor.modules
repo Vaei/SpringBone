@@ -1,8 +1,0 @@
-{
-	"BuildId": "8386587",
-	"Modules": 
-	{
-		"SpringBone": "UE4Editor-SpringBone.dll",
-		"SpringBoneEditor": "UE4Editor-SpringBoneEditor.dll"
-	}
-}

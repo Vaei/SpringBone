@@ -1,4 +1,4 @@
-// // Copyright (c) 2019 Drowning Dragons Limited. All Rights Reserved.
+// Copyright (c) 2019-2022 Drowning Dragons Limited. All Rights Reserved.
 
 #pragma once
 
@@ -20,7 +20,7 @@ public:
 	FAnimNode_LimitedSpringBone Node;
 
 	//~ Begin UObject Interface
-	virtual void PostLoad();
+	virtual void PostLoad() override;
 	//~ End UObject Interface
 
 public:

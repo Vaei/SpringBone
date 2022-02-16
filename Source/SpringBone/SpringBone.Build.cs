@@ -37,10 +37,6 @@ public class SpringBone : ModuleRules
 			{
 				"CoreUObject",
 				"Engine",
-				"Slate",
-				"SlateCore",
-				"InputCore",
-				"UnrealEd",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
