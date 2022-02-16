@@ -10,6 +10,6 @@ To see the difference you can look at the community tools thread here: https://f
 ## Installation
 Clone/download to your project's Plugins directory (you may need to create this, it goes alongside content folder).
 
-Compile your project (to compile the plugin).
+Compile your project (to compile the plugin) or use the command line if working on a blueprint only project.
 
 Open your project. If you have mismatched engine version it will build. Enable it in the Plugins window in UE4. That's it, now it should be available as a node in the animation graph "Limited Spring Controller"
